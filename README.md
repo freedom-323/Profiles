@@ -11,7 +11,9 @@ Free p12 and Mobileprovision profiles for signing iOS/iPadOS apps.🤩
 
 
 # License
-MIT License
+This repository employs a dual license, maintaining its open-source nature while allowing widespread use by everyone.
+
+It is licensed under both the MIT License and the MPL License.
 
 
 # Credits
