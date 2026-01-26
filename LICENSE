@@ -23,6 +23,33 @@ The copyright notice above, this dual-license statement, and the exact contents 
 
 Removal or alteration of LICENSE-MIT, LICENSE-MPL, CREDITS, or omission of the required promotional statement in distributions or promotional materials constitutes a material breach of the licenses granted here and may result in revocation or termination of the license rights for the non‑complying copy or distribution and/or other legal remedies.
 
+--Definition of "fork"--
+
+For the purposes of this notice, a "fork" means any copy or redistribution of this repository (or any substantial portion of it) that is published or made available by a third party under a separate project name, repository, or distribution channel. A fork includes, but is not limited to:
+
+1.Creating a new public or private repository that begins with a copy of this repository’s content and that is maintained separately from the original
+
+2.Publishing a derived distribution (source or binary) that contains a substantial portion of this repository’s files under a different project name, namespace, or packaging
+
+3.Any re-hosting or mirrored distribution where the new host or distributor treats the copy as a distinct project (for example, a copy with its own issue tracker, release tags, or distribution packaging).
+
+A fork does not include:
+
+Simple local copies made only for private backup, personal experimentation, or internal development that are not distributed outside the forking party’s organization; or
+Pull requests, patches, or contributions submitted back to the original repository for incorporation by the original project maintainers (these remain contributions, not forks, provided the primary repository stays authoritative).
+
+--Permitted additions by fork owners--
+
+Fork owners and downstream redistributors are permitted to add their own attribution information, subject to the following rules:
+
+1.Additions must be appended only as new entries. Do not remove, alter, or relocate any existing entries in CREDITS, the required promotional attribution line, or any of the preserved license files (LICENSE, LICENSE-MIT, LICENSE-MPL).
+
+2.Appended entries must be placed in a clearly labeled section of CREDITS titled "Additional credits", "Fork additions", or similar, separated from the original credits block.
+
+3.Preservation of LICENSE-MIT, LICENSE-MPL, LICENSE (this file), and the original contents of CREDITS is mandatory and remains a condition of the license grant. Removal or alteration of those files or of the original CREDITS entries constitutes a material breach.
+
+Permitted additions that follow these rules do not constitute a breach and are allowed without requiring further permission from the original authors.
+
 --Required attribution in promotional materials--
 
 Any promotional materials (including documentation, websites, advertisements, and other public descriptions) that mention the functionality or usage of this repository must include the following statement verbatim:
