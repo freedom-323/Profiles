@@ -2,7 +2,7 @@ General Project Attribution Notice
 
 Copyright (c) 2026 freedom-323
 
---General principles--
+-- General principles --
 
 This repository is licensed simultaneously under both the MIT License and the Mozilla Public License version 2.0 (MPL 2.0). Use, copying, modification, distribution, and sublicensing of the code in this repository are permitted only under the terms of both licenses taken together; recipients must comply with the obligations of both the MIT License and the MPL 2.0.
 
@@ -10,7 +10,7 @@ If any provision of one of these two licenses conflicts with a provision of the 
 
 If any other license, notice, or additional terms are applied to any copy, portion, or distribution of this repository and such other license or terms conflict with the MIT License or the MPL 2.0 as they apply here, the MIT License and the MPL 2.0 (with MPL prevailing between them as stated above) shall control and the conflicting provisions of the other license or terms shall be of no force or effect to the extent of the conflict.
 
---Copies, notices, and preservation of license texts and credits--
+-- Copies, notices, and preservation of license texts and credits --
 
 The repository root must include the following files and their contents must be preserved verbatim in all copies or substantial portions of this repository and in any distributed documentation, packaging, or product "About" or credits screens:
 
@@ -23,7 +23,7 @@ The copyright notice above, this dual-license statement, and the exact contents 
 
 Removal or alteration of LICENSE-MIT, LICENSE-MPL, CREDITS, or omission of the required promotional statement in distributions or promotional materials constitutes a material breach of the licenses granted here and may result in revocation or termination of the license rights for the non‑complying copy or distribution and/or other legal remedies.
 
---Definition of "fork"--
+-- Definition of "fork" --
 
 For the purposes of this notice, a "fork" means any copy or redistribution of this repository (or any substantial portion of it) that is published or made available by a third party under a separate project name, repository, or distribution channel. A fork includes, but is not limited to:
 
@@ -38,7 +38,7 @@ A fork does not include:
 Simple local copies made only for private backup, personal experimentation, or internal development that are not distributed outside the forking party’s organization; or
 Pull requests, patches, or contributions submitted back to the original repository for incorporation by the original project maintainers (these remain contributions, not forks, provided the primary repository stays authoritative).
 
---Permitted additions by fork owners--
+-- Permitted additions by fork owners --
 
 Fork owners and downstream redistributors are permitted to add their own attribution information, subject to the following rules:
 
@@ -50,7 +50,17 @@ Fork owners and downstream redistributors are permitted to add their own attribu
 
 Permitted additions that follow these rules do not constitute a breach and are allowed without requiring further permission from the original authors.
 
---Required attribution in promotional materials--
+-- 30-day cure period --
+
+If a fork is published that initially omits or misplaces required preserved files or contains other noncompliance with the preservation, attribution, or CREDITS addition rules, the fork owner has thirty (30) days from the date of first public publication of that fork to cure the noncompliance. During this period the fork owner must:
+
+a) make the required corrections in the fork repository and distributed artifacts (including restoring LICENSE, LICENSE-MIT, LICENSE-MPL, and the original CREDITS entries where applicable); and
+
+b) where practicable, notify freedom-323 by email or by adding a short note in the fork's repository describing the corrections and the date they were made.
+
+Failure to cure the noncompliance within thirty (30) days will be treated as a material breach and may result in revocation or termination of license rights for that fork or distribution and/or other legal remedies.
+
+-- Required attribution in promotional materials --
 
 Any promotional materials (including documentation, websites, advertisements, and other public descriptions) that mention the functionality or usage of this repository must include the following statement verbatim:
 
