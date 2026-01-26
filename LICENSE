@@ -2,13 +2,15 @@ Project Attribution Notice
 
 Copyright (c) 2026 freedom-323
 
+--General principles--
+
 This repository is licensed simultaneously under both the MIT License and the Mozilla Public License version 2.0 (MPL 2.0). Use, copying, modification, distribution, and sublicensing of the code in this repository are permitted only under the terms of both licenses taken together; recipients must comply with the obligations of both the MIT License and the MPL 2.0.
 
 If any provision of one of these two licenses conflicts with a provision of the other, the terms of the MPL 2.0 shall govern to the extent of the conflict.
 
 If any other license, notice, or additional terms are applied to any copy, portion, or distribution of this repository and such other license or terms conflict with the MIT License or the MPL 2.0 as they apply here, the MIT License and the MPL 2.0 (with MPL prevailing between them as stated above) shall control and the conflicting provisions of the other license or terms shall be of no force or effect to the extent of the conflict.
 
-Copies, notices, and preservation of license texts and credits
+--Copies, notices, and preservation of license texts and credits--
 
 The repository root must include the following files and their contents must be preserved verbatim in all copies or substantial portions of this repository and in any distributed documentation, packaging, or product "About" or credits screens:
 
@@ -21,10 +23,10 @@ The copyright notice above, this dual-license statement, and the exact contents 
 
 Removal or alteration of LICENSE-MIT, LICENSE-MPL, CREDITS, or omission of the required promotional statement in distributions or promotional materials constitutes a material breach of the licenses granted here and may result in revocation or termination of the license rights for the non‑complying copy or distribution and/or other legal remedies.
 
-Required attribution in promotional materials
+--Required attribution in promotional materials--
 
 Any promotional materials (including documentation, websites, advertisements, and other public descriptions) that mention the functionality or usage of this repository must include the following statement verbatim:
 
 "This product contains software developed or released by freedom-323, his contributors, and any individual or organization mentioned in the 'Credits' section of this repository."
 
-For full license texts and details, see LICENSE-MIT and LICENSE-MPL at the repository root.
+(For full license texts and details, see LICENSE-MIT and LICENSE-MPL at the repository root.)
