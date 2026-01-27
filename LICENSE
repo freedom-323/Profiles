@@ -6,23 +6,15 @@ Copyright (c) 2026 freedom-323
 
 This repository is licensed simultaneously under the MIT License and the Mozilla Public License version 2.0 (MPL 2.0). Use, copying, modification, distribution, and sublicensing of the code in this repository are permitted only under the terms of both licenses taken together; recipients must comply with the obligations of both LICENSE-MIT and LICENSE-MPL.
 
-If any provision of LICENSE-MIT, LICENSE-MPL, or any other license, notice, or additional terms applied to any copy, portion, or distribution of this repository conflicts with this General Project Attribution Notice (GPAN), the provisions of this GPAN shall govern and prevail. If LICENSE-MIT and LICENSE-MPL conflict with each other, the MPL 2.0 shall govern to the extent of that conflict.
+If any provision of LICENSE-MIT, LICENSE-MPL, CREDITS, or any other license, notice, or additional terms applied to any copy, portion, or distribution of this repository conflicts with this General Project Attribution Notice (GPAN), the provisions of this GPAN shall govern and prevail. If LICENSE-MIT and LICENSE-MPL conflict with each other, the MPL 2.0 shall govern to the extent of that conflict.
 
-Fork owners may attach one or more additional license(s) to their fork or to distributions derived from it; such additional license(s) may be preserved by the fork owner in their fork or release artifacts. For avoidance of doubt, the order of precedence for conflicting terms is: (1) this GPAN, (2) the Mozilla Public License 2.0 (MPL 2.0), (3) the MIT License, and (4) any additional license(s) applied by the fork owner. Preservation or inclusion of additional license(s) is permitted only if doing so does not remove, alter, or conflict with the required preserved files (LICENSE, LICENSE-MIT, LICENSE-MPL) or the original contents of CREDITS, and does not undermine the obligations set forth elsewhere in this GPAN.
+For avoidance of doubt, the order of precedence for conflicting terms is:
 
--- Copies, notices, and preservation of license texts and credits --
-
-The repository root must include the following files, and their contents must be preserved verbatim in all copies or substantial portions of this repository and in any distributed documentation, packaging, or product "About" or credits screens:
-
-LICENSE (this file)
-LICENSE-MIT (the full MIT license text for this repository)
-LICENSE-MPL (the full MPL 2.0 license text for this repository)
-CREDITS (the project credits and the required promotional statement)
-
-Translations of any preserved file (LICENSE, LICENSE-MIT, LICENSE-MPL, or CREDITS) are permitted for convenience or reference only, but such translations are non‑authoritative. The verbatim English-language texts of the preserved files as included in the repository root are the controlling authoritative versions; translations must not replace, alter, or be presented as the definitive text for legal or compliance purposes.
-
-The copyright notice above, this dual-license statement, and the exact contents of LICENSE-MIT, LICENSE-MPL, and CREDITS (including the required promotional statement) must appear verbatim in all copies or substantial portions of this repository and in any distributed documentation, packaging, or product "About" or credits screens. Removal or alteration of LICENSE-MIT, LICENSE-MPL, or CREDITS, or omission of the required promotional statement, constitutes a material breach and may result in revocation or termination of license rights for the non‑complying copy or distribution and/or other legal remedies.
-
+This GPAN;
+The CREDITS file (including required promotional statement and original credits content);
+The Mozilla Public License 2.0 (MPL 2.0);
+The MIT License; and
+Any additional license(s) applied by a fork owner.
 -- Definition of "fork" --
 
 For this notice, a "fork" means any copy or redistribution of this repository (or any substantial portion of it) that is published or made available by a third party under a different project name, repository, or distribution channel. Examples include, but are not limited to:
@@ -31,6 +23,18 @@ Creating a new public or private repository that begins with a copy of this repo
 Publishing a derived distribution (source or binary) that contains a substantial portion of this repository’s files under a different project name, namespace, or packaging; and
 Rehosting or mirroring the repository where the new host treats the copy as a distinct project (for example, by providing separate issue tracking, release tags, or distribution packaging).
 A fork does not include simple local copies made solely for private backup, personal experimentation, or internal development that are not distributed outside the forking party’s organization, nor does it include pull requests, patches, or contributions submitted back to the original repository for incorporation by the original maintainers (which remain contributions, not forks, provided the primary repository stays authoritative).
+
+-- Copies, notices, and preservation of license texts and credits --
+
+The repository root must include the following files, and their contents must be preserved verbatim in all copies or substantial portions of this repository and in any distributed documentation, packaging, or product "About" or credits screens:
+
+LICENSE (this file)
+CREDITS (the project credits and the required promotional statement)
+LICENSE-MIT (the full MIT license text for this repository)
+LICENSE-MPL (the full MPL 2.0 license text for this repository)
+Translations of any preserved file (LICENSE, LICENSE-MIT, LICENSE-MPL, or CREDITS) are permitted for convenience or reference only, but such translations are non‑authoritative. The verbatim English-language texts of the preserved files as included in the repository root are the controlling authoritative versions; translations must not replace, alter, or be presented as the definitive text for legal or compliance purposes.
+
+The copyright notice above, this dual-license statement, and the exact contents of LICENSE-MIT, LICENSE-MPL, and CREDITS (including the required promotional statement) must appear verbatim in all copies or substantial portions of this repository and in any distributed documentation, packaging, or product "About" or credits screens. Removal or alteration of LICENSE-MIT, LICENSE-MPL, or CREDITS, or omission of the required promotional statement, constitutes a material breach and may result in revocation or termination of license rights for the non‑complying copy or distribution and/or other legal remedies.
 
 -- Permitted additions by fork owners --
 
@@ -48,7 +52,6 @@ Permitted additions that comply with these rules do not constitute a breach and 
 -- 30‑day cure period --
 
 If a fork is published that initially omits or misplaces required preserved files or otherwise fails to comply with the preservation, attribution, or CREDITS-addition rules (including placement of additional licenses in a manner that precedes, obscures, substitutes for, or displaces required preserved materials), the fork owner has thirty (30) days from the date of first public publication of that fork to cure the noncompliance. During this period the fork owner must:
-
 a) Restore the required files and make any corrections in the fork repository and in distributed artifacts (including restoring LICENSE, LICENSE-MIT, LICENSE-MPL, and the original CREDITS entries where applicable); and
 b) Where practicable, notify freedom-323 by email or by adding a short note in the fork's repository describing the corrections and the date they were made.
 
