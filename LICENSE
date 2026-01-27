@@ -1,4 +1,4 @@
-General Project Attribution Notice (GPAN)
+General Project Attribution Notice (GPAN
 
 Copyright (c) 2026 freedom-323
 
@@ -11,7 +11,7 @@ If any provision of LICENSE-MIT, LICENSE-MPL, CREDITS, or any other license, not
 For avoidance of doubt, the order of precedence for conflicting terms is:
 
 1. This GPAN;
-2. The CREDITS file (including required promotional statement and original credits content);
+2. The CREDITS file (including required promotional statement and original credits content, and any permitted fork credits appended under a clearly labeled section);
 3. The Mozilla Public License 2.0 (MPL 2.0);
 4. The MIT License; and
 5. Any additional license(s) applied by a fork owner.
@@ -36,10 +36,12 @@ A fork does not include simple local copies made solely for private backup, pers
 
 The repository root must include the following files, and their contents must be preserved verbatim in all copies or substantial portions of this repository and in any distributed documentation, packaging, or product "About" or credits screens:
 
-LICENSE (this file)
-CREDITS (the project credits and the required promotional statement)
-LICENSE-MIT (the full MIT license text for this repository)
-LICENSE-MPL (the full MPL 2.0 license text for this repository)
+- LICENSE (this file)
+- CREDITS (the project credits and the required promotional statement)
+- LICENSE-MIT (the full MIT license text for this repository)
+- LICENSE-MPL (the full MPL 2.0 license text for this repository)
+
+The CREDITS file includes the original project credits and any permitted fork credits appended under a clearly labeled section such as "Additional credits" or "Fork additions"; names and entries added by forks in that section are considered part of CREDITS for the purposes of the promotional statement and all preservation requirements.
 
 Translations of any preserved file (LICENSE, LICENSE-MIT, LICENSE-MPL, or CREDITS) are permitted for convenience or reference only, but such translations are non‑authoritative. The verbatim English-language texts of the preserved files as included in the repository root are the controlling authoritative versions; translations must not replace, alter, or be presented as the definitive text for legal or compliance purposes.
 
@@ -74,7 +76,20 @@ Failure to cure within thirty (30) days will be treated as a material breach and
 
 Any promotional materials (including documentation, websites, advertisements, and other public descriptions) that mention the functionality or use of this repository must include the following statement verbatim:
 
-"This product contains software developed or released by freedom-323, his contributors, and any individual or organization mentioned in the 'Credits' section of this repository."
+"This product contains software developed or released by freedom-323, the project’s contributors, and any individual or organization listed in the 'Credits' section of this repository."
+
+Forks may add their own name(s) and other attribution entries in the CREDITS file under a clearly labeled section such as "Additional credits" or "Fork additions." Names listed in CREDITS (including any entries added by a fork under the allowed "Additional credits" section) are covered by and referenced in the promotional statement above. Fork owners who add credited parties do not need to modify the original promotional statement; inclusion of their names in CREDITS is sufficient for the promotional-statement requirement.
+
+Implementation notes:
+
+The original promotional statement must be preserved verbatim in all copies and distributions. Fork owners who add credits must append their entries in the CREDITS file (per the "Permitted additions by fork owners" rules).
+
+In promotional materials, it is acceptable to either:
+
+- Keep the original promotional statement verbatim and separately list the additional credited parties (for example, an "Additional credits" section on the project website that reproduces the fork's CREDITS entries), or
+- Include both the verbatim promotional statement and an explicit listing of the additional credited parties drawn from CREDITS.
+
+Failure to include the verbatim promotional statement in promotional materials remains subject to the 30‑day cure period described elsewhere in this GPAN.
 
 (For full license texts and details, see LICENSE-MIT and LICENSE-MPL at the repository root.)
 
