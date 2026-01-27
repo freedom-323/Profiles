@@ -10,28 +10,33 @@ If any provision of LICENSE-MIT, LICENSE-MPL, CREDITS, or any other license, not
 
 For avoidance of doubt, the order of precedence for conflicting terms is:
 
-This GPAN;
-The CREDITS file (including required promotional statement and original credits content);
-The Mozilla Public License 2.0 (MPL 2.0);
-The MIT License; and
-Any additional license(s) applied by a fork owner.
+1.  This GPAN;
+2.  The CREDITS file (including required promotional statement and original credits content);
+3.  The Mozilla Public License 2.0 (MPL 2.0);
+4.  The MIT License; and
+5.  Any additional license(s) applied by a fork owner.
+
 -- Definition of "fork" --
 
 For this notice, a "fork" means any copy or redistribution of this repository (or any substantial portion of it) that is published or made available by a third party under a different project name, repository, or distribution channel. Examples include, but are not limited to:
 
-Creating a new public or private repository that begins with a copy of this repository’s content and is maintained separately from the original;
-Publishing a derived distribution (source or binary) that contains a substantial portion of this repository’s files under a different project name, namespace, or packaging; and
-Rehosting or mirroring the repository where the new host treats the copy as a distinct project (for example, by providing separate issue tracking, release tags, or distribution packaging).
+- Creating a new public or private repository that begins with a copy of this repository’s content and is maintained separately from the original;
+
+- Publishing a derived distribution (source or binary) that contains a substantial portion of this repository’s files under a different project name, namespace, or packaging; and
+
+- Rehosting or mirroring the repository where the new host treats the copy as a distinct project (for example, by providing separate issue tracking, release tags, or distribution packaging).
+
 A fork does not include simple local copies made solely for private backup, personal experimentation, or internal development that are not distributed outside the forking party’s organization, nor does it include pull requests, patches, or contributions submitted back to the original repository for incorporation by the original maintainers (which remain contributions, not forks, provided the primary repository stays authoritative).
 
 -- Copies, notices, and preservation of license texts and credits --
 
 The repository root must include the following files, and their contents must be preserved verbatim in all copies or substantial portions of this repository and in any distributed documentation, packaging, or product "About" or credits screens:
 
-LICENSE (this file)
-CREDITS (the project credits and the required promotional statement)
-LICENSE-MIT (the full MIT license text for this repository)
-LICENSE-MPL (the full MPL 2.0 license text for this repository)
+- LICENSE (this file)
+- CREDITS (the project credits and the required promotional statement)
+- LICENSE-MIT (the full MIT license text for this repository)
+- LICENSE-MPL (the full MPL 2.0 license text for this repository)
+
 Translations of any preserved file (LICENSE, LICENSE-MIT, LICENSE-MPL, or CREDITS) are permitted for convenience or reference only, but such translations are non‑authoritative. The verbatim English-language texts of the preserved files as included in the repository root are the controlling authoritative versions; translations must not replace, alter, or be presented as the definitive text for legal or compliance purposes.
 
 The copyright notice above, this dual-license statement, and the exact contents of LICENSE-MIT, LICENSE-MPL, and CREDITS (including the required promotional statement) must appear verbatim in all copies or substantial portions of this repository and in any distributed documentation, packaging, or product "About" or credits screens. Removal or alteration of LICENSE-MIT, LICENSE-MPL, or CREDITS, or omission of the required promotional statement, constitutes a material breach and may result in revocation or termination of license rights for the non‑complying copy or distribution and/or other legal remedies.
@@ -40,11 +45,16 @@ The copyright notice above, this dual-license statement, and the exact contents 
 
 Fork owners and downstream redistributors may append their own attribution information and may include additional license(s), subject to these rules:
 
-Additions must be appended only as new entries. Do not remove, alter, relocate, or place any appended entry above or before any preserved license file (LICENSE, LICENSE-MIT, LICENSE-MPL) or the original contents of CREDITS.
-Appended entries must appear in a clearly labeled section of CREDITS titled "Additional credits", "Fork additions", or similar, separated from the original credits block.
-Each appended entry should include the forking party's name (person or organization) and the date of the addition in ISO format (YYYY-MM-DD).
-Fork owners may attach one or more additional license(s) to their fork or to distributions derived from it; any additional license(s) may be preserved by the fork owner in the fork or in release artifacts so long as preservation does not remove, alter, or conflict with the required preserved files (LICENSE, LICENSE-MIT, LICENSE-MPL) or the original contents of CREDITS.
-Preservation of LICENSE-MIT, LICENSE-MPL, LICENSE (this file), and the original contents of CREDITS is mandatory; removal or alteration of those files or original entries constitutes a material breach.
+1.  Additions must be appended only as new entries. Do not remove, alter, relocate, or place any appended entry above or before any preserved license file (LICENSE, LICENSE-MIT, LICENSE-MPL) or the original contents of CREDITS.
+
+2.  Appended entries must appear in a clearly labeled section of CREDITS titled "Additional credits", "Fork additions", or similar, separated from the original credits block.
+
+3.  Each appended entry should include the forking party's name (person or organization) and the date of the addition in ISO format (YYYY-MM-DD).
+
+4.  Fork owners may attach one or more additional license(s) to their fork or to distributions derived from it; any additional license(s) may be preserved by the fork owner in the fork or in release artifacts so long as preservation does not remove, alter, or conflict with the required preserved files (LICENSE, LICENSE-MIT, LICENSE-MPL) or the original contents of CREDITS.
+
+5.  Preservation of LICENSE-MIT, LICENSE-MPL, LICENSE (this file), and the original contents of CREDITS is mandatory; removal or alteration of those files or original entries constitutes a material breach.
+
 Placement of an additional license that precedes, obscures, substitutes for, or otherwise displaces any required preserved file or original CREDITS entry will be treated as noncompliance and is subject to the thirty (30) day cure period described below.
 
 Permitted additions that comply with these rules do not constitute a breach and are allowed without further permission from the original authors.
@@ -52,7 +62,9 @@ Permitted additions that comply with these rules do not constitute a breach and 
 -- 30‑day cure period --
 
 If a fork is published that initially omits or misplaces required preserved files or otherwise fails to comply with the preservation, attribution, or CREDITS-addition rules (including placement of additional licenses in a manner that precedes, obscures, substitutes for, or displaces required preserved materials), the fork owner has thirty (30) days from the date of first public publication of that fork to cure the noncompliance. During this period the fork owner must:
+
 a) Restore the required files and make any corrections in the fork repository and in distributed artifacts (including restoring LICENSE, LICENSE-MIT, LICENSE-MPL, and the original CREDITS entries where applicable); and
+
 b) Where practicable, notify freedom-323 by email or by adding a short note in the fork's repository describing the corrections and the date they were made.
 
 Failure to cure within thirty (30) days will be treated as a material breach and may result in revocation or termination of license rights for that fork or distribution and/or other legal remedies.
