@@ -66,9 +66,12 @@ Commercial sale or other for‑profit distribution of this repository or officia
 1. They have published a fork that conforms to this GPAN (including preservation of required files and CREDITS structure).
 2. They have appended their identity and the addition date to CREDITS under a clearly labeled "Additional credits" or "Fork additions" section.
 3. Their fork includes demonstrable modifications beyond a verbatim copy and meets these objective criteria:
-   - At least three (3) commits authored by the distributor that modify the repository (code, documentation, packaging, or            configuration);
-   - A CHANGELOG or release notes file included in the fork that (a) summarizes the changes, (b) lists commit SHAs or a commit        range, and (c) is included with the tagged release; and
-   - A tagged release (for example, a Git tag using semantic versioning or a dated tag) that contains the CHANGELOG/release notes     and the modified artifacts.
+   - At least three (3) commits authored by the distributor that modify the repository (code, documentation, packaging, or           
+configuration);
+   - A CHANGELOG or release notes file included in the fork that (a) summarizes the changes, (b) lists commit SHAs or a commit 
+range, and (c) is included with the tagged release; and
+   - A tagged release (for example, a Git tag using semantic versioning or a dated tag) that contains the CHANGELOG/release notes  
+and the modified artifacts.
 
 A distributor offering for sale a verbatim copy of an official release or of the repository that does not meet the objective criteria above is not a permitted commercial distributor. Sale of unchanged/unaltered copies is prohibited under this GPAN.
 
