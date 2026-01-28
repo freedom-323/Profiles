@@ -70,8 +70,8 @@ Commercial sale or other for‑profit distribution of this repository or officia
 configuration);
    - A CHANGELOG or release notes file included in the fork that (a) summarizes the changes, (b) lists commit SHAs or a commit 
      range, and (c) is included with the tagged release; and
-   - A tagged release (for example, a Git tag using semantic versioning or a dated tag) that contains the CHANGELOG/release notes  
-     and the modified artifacts.
+   - A tagged release (for example, a Git tag using semantic versioning or a dated tag)
+     that contains the CHANGELOG/release notes and the modified artifacts.
 
 A distributor offering for sale a verbatim copy of an official release or of the repository that does not meet the objective criteria above is not a permitted commercial distributor. Sale of unchanged/unaltered copies is prohibited under this GPAN.
 
